@@ -1,0 +1,6 @@
+Quiero un txt en algún lugar con la lista de radios
+que se puedan ir agregando con un comando
+tipo:
+radio --listen arena
+radio --list
+radio --add RadioNueva --web http://servidorderadio.m3u
