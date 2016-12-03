@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=radioqt
+Type=Application
+Exec=/usr/local/bin/radioqt
+Icon=radioqt
+Terminal=false
+NoDisplay=false
+Categories=Otras
+Comment=Mi programa de radio.

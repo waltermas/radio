@@ -23,7 +23,7 @@ class Example(QSystemTrayIcon):
     def initUI(self):               
         icono = QIcon()
         #icono.addFile('/home/waltermasb/MEGAsync/gits/radio/radio.png',  QSize(56, 56))
-        icono.addFile('radio.png')
+        icono.addFile('/usr/share/icons/radioqt.png')
         self.setIcon(icono)
         menuradios = QMenu()
 

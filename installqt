@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo cp radioqt.py /usr/local/bin/radioqt
+sudo cp radio.png /usr/share/icons/radioqt.png
+sudo cp radioqt.desktop /usr/share/applications/radioqt.desktop
+sudo chmod +x /usr/local/bin/radioqt
